@@ -1,5 +1,5 @@
 {
-  "name": "products",
+  "name": "container",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,7 +7,6 @@
     "start": "webpack serve"
   },
   "dependencies": {
-    "faker": "5.1.0",
     "html-webpack-plugin": "5.1.0",
     "nodemon": "^2.0.7",
     "webpack": "5.4.0",
